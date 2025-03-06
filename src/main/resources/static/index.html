@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blueprints</title>
+    <link rel="stylesheet" href="/webjars/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Blueprints Management</h1>
+        <div class="form-group">
+            <label for="authorInput">Author:</label>
+            <input type="text" class="form-control" id="authorInput" placeholder="Enter author name">
+        </div>
+        <button id="getBlueprintsBtn" class="btn btn-primary">Get Blueprints</button>
+        
+        <h2 id="authorName"></h2>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Blueprint Name</th>
+                    <th>Number of Points</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody id="blueprintsTableBody">
+                <!-- Rows will be inserted here by JavaScript -->
+            </tbody>
+        </table>
+        <h3>Total Points: <span id="totalPoints">0</span></h3>
+
+        <!-- Canvas for drawing the blueprint -->
+        <h3>Blueprint Drawing</h3>
+        <canvas id="blueprintCanvas" width="500" height="500" style="border: 1px solid #000;"></canvas>
+    </div>
+
+    <script src="/webjars/jquery/jquery.min.js"></script>
+    <script src="/webjars/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="js/apimock.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

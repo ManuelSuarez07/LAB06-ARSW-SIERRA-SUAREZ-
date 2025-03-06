@@ -1,0 +1,15 @@
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprints\BlueprintsApplication.java
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprints\controllers\BlueprintAPIController.java
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprints\controllers\ResourceNotFoundException.java
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprints\Filter\BlueprintFilter.java
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprints\Filter\RedundancyFilter.java
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprints\Filter\SubsamplingFilter.java
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprints\model\Blueprint.java
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprints\model\Point.java
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprints\persistence\BlueprintNotFoundException.java
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprints\persistence\BlueprintPersistenceException.java
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprints\persistence\BlueprintsPersistence.java
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprints\persistence\impl\InMemoryBlueprintPersistence.java
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprints\persistence\impl\Tuple.java
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprints\services\BlueprintsServices.java
+C:\Users\manuel.suarez-e.LABINFO\Documents\NetBeansProjects\LAB06-ARSW-SIERRA-SUAREZ-\src\main\java\edu\eci\arsw\blueprintsapi\BlueprintsAPIApplication.java
